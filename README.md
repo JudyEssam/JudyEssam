@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I’m Judy Ashmawy 👋<br>Senior Biomedical Engineering student at Cairo University | ML for medical imaging | Developing robust, interpretable AI models and actionable biomarkers.<br>Chairwoman of IEEE EMBS Cairo University | NASA Space Apps Global Winner.<br>Passionate about building scientifically rigorous, clinically deployable medical AI solutions.
 
 
@@ -7,7 +7,7 @@ Hi, I’m Judy Ashmawy 👋<br>Senior Biomedical Engineering student at Cairo Un
 
 # 💻 Tech Stack
 
-### 🖥️ Programming Languages
+### Programming Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
@@ -15,7 +15,7 @@ Hi, I’m Judy Ashmawy 👋<br>Senior Biomedical Engineering student at Cairo Un
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)
 
-### 📊 Data Science & ML
+### Data Science & ML
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white)
@@ -24,12 +24,12 @@ Hi, I’m Judy Ashmawy 👋<br>Senior Biomedical Engineering student at Cairo Un
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
 
-### 🌐 Web & App Development
+### Web & App Development
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white)
 
-### 🛠️ Tools & Libraries
+### Tools & Libraries
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=plastic&logo=opengl)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=plastic&logo=Qt&logoColor=white)
@@ -39,7 +39,7 @@ Hi, I’m Judy Ashmawy 👋<br>Senior Biomedical Engineering student at Cairo Un
 ![](https://nirzak-streak-stats.vercel.app/?user=JudyEssam&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JudyEssam&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JudyEssam&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
